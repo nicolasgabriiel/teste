@@ -1,6 +1,6 @@
 # teste
 
-### Iniciando o Projeto 
+### Iniciando a organização das etapas do Projeto 
 
 -[ ]Criar Estrutura básica HTML
 -[ ]Estruturar Header

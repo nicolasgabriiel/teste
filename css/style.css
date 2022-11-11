@@ -1,0 +1,26 @@
+body{
+    color: white;
+    text-align: center;
+    background-image: linear-gradient(to bottom, red 100%, white 12%);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header h1{
+    
+    font-size: 48px;
+}
+
+main li{
+    padding: 1em;
+    
+    font-size: 20px;
+}
+
+footer p{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 16px;
+}
+
